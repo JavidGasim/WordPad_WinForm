@@ -1,0 +1,16 @@
+C:\Users\gasim\source\repos\WordPad_WinForm\WordPad_WinForm\bin\Debug\net6.0-windows\WordPad_WinForm.exe
+C:\Users\gasim\source\repos\WordPad_WinForm\WordPad_WinForm\bin\Debug\net6.0-windows\WordPad_WinForm.deps.json
+C:\Users\gasim\source\repos\WordPad_WinForm\WordPad_WinForm\bin\Debug\net6.0-windows\WordPad_WinForm.runtimeconfig.json
+C:\Users\gasim\source\repos\WordPad_WinForm\WordPad_WinForm\bin\Debug\net6.0-windows\WordPad_WinForm.dll
+C:\Users\gasim\source\repos\WordPad_WinForm\WordPad_WinForm\bin\Debug\net6.0-windows\WordPad_WinForm.pdb
+C:\Users\gasim\source\repos\WordPad_WinForm\WordPad_WinForm\obj\Debug\net6.0-windows\WordPad_WinForm.Form1.resources
+C:\Users\gasim\source\repos\WordPad_WinForm\WordPad_WinForm\obj\Debug\net6.0-windows\WordPad_WinForm.csproj.GenerateResource.cache
+C:\Users\gasim\source\repos\WordPad_WinForm\WordPad_WinForm\obj\Debug\net6.0-windows\WordPad_WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gasim\source\repos\WordPad_WinForm\WordPad_WinForm\obj\Debug\net6.0-windows\WordPad_WinForm.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\WordPad_WinForm\WordPad_WinForm\obj\Debug\net6.0-windows\WordPad_WinForm.AssemblyInfo.cs
+C:\Users\gasim\source\repos\WordPad_WinForm\WordPad_WinForm\obj\Debug\net6.0-windows\WordPad_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\gasim\source\repos\WordPad_WinForm\WordPad_WinForm\obj\Debug\net6.0-windows\WordPad_WinForm.dll
+C:\Users\gasim\source\repos\WordPad_WinForm\WordPad_WinForm\obj\Debug\net6.0-windows\refint\WordPad_WinForm.dll
+C:\Users\gasim\source\repos\WordPad_WinForm\WordPad_WinForm\obj\Debug\net6.0-windows\WordPad_WinForm.pdb
+C:\Users\gasim\source\repos\WordPad_WinForm\WordPad_WinForm\obj\Debug\net6.0-windows\WordPad_WinForm.genruntimeconfig.cache
+C:\Users\gasim\source\repos\WordPad_WinForm\WordPad_WinForm\obj\Debug\net6.0-windows\ref\WordPad_WinForm.dll
